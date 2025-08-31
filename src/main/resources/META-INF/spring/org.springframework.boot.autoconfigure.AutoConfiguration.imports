@@ -1,1 +1,3 @@
 com.example.authstarter.config.SecurityConfig
+com.example.authstarter.controller.AuthController
+com.example.authstarter.config.RefreshTokenConfig
